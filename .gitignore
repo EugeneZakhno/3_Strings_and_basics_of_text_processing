@@ -1,0 +1,51 @@
+
+Будет удалено .gitignore
+Будет удалено 3_Module/src/main/resources/
+Будет удалено 3_Module/src/test/
+Будет удалено Practice(tasks).png
+
+.DS_Store
+*.swp
+index.data
+*~
+html/*.html
+html/css/style.css
+html/css/style.css.map
+html/perl6.xhtml
+html/routine/
+html/type/
+html/op/
+html/language/
+html/programs/
+html/syntax/
+html/images/type-graph*
+html/js/search.js
+.precomp
+precompiled
+assets/assetpack.db
+assets/cache
+.sass-cache/
+html/css/style.css.map
+html/links.txt
+xt/aspell.pws
+highlights/node_modules
+**/npm-debug.log
+highlights/atom-language-perl6/
+.DS_store
+highlights/package-lock.json
+
+# IDE specific
+.scala_dependencies
+.classpath
+*.iml
+.idea/
+.idea_modules/
+.project
+.settings/
+*.sublime-project
+*.sublime-workspace
+/.env
+atlassian-ide-plugin.xml
+Будет удалено 3_Module/target/
+Будет удалено src/
+Будет удалено target/
