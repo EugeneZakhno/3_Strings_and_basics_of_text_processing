@@ -3,7 +3,7 @@ package VideosFollowingOnLearn;
 public class StringBuilderDemo {
     public static void main(String[] args) {
         StringBuilder builder = new StringBuilder();
-     /*   System.out.println(builder.length());
+        System.out.println(builder.length());
         System.out.println(builder.capacity());
         builder.append("hello");
         System.out.println(builder.length());
@@ -12,7 +12,7 @@ public class StringBuilderDemo {
         System.out.println(builder.length());
         System.out.println(builder.capacity());
         System.out.println(builder.delete(10, 17));
-        System.out.println(builder.reverse());*/
+        System.out.println(builder.reverse());
 
         StringBuilder builder1 = new StringBuilder();
         StringBuilder builder2 = new StringBuilder();
