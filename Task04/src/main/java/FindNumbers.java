@@ -13,7 +13,6 @@ public class FindNumbers {
         try (BufferedReader reader = new BufferedReader(new InputStreamReader(System.in))) {
             String strings = reader.readLine();
             System.out.println(findNumbers(strings));
-            findNumbers(strings);
         } catch (IOException e) {
             e.printStackTrace();
         }
