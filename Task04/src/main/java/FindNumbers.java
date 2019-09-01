@@ -23,7 +23,7 @@ public class FindNumbers {
         int counter = 0;
         for (int i = 0; i < strings.length(); i++) {
             if (isDigit(strings.charAt(i))) {
-                if (i == strings.length() - 1 || !isDigit(strings.charAt(i + 1))) {  //?
+                if (i == strings.length() - 1 || !isDigit(strings.charAt(i + 1))) {
                     counter++;
                 }
             }
@@ -37,6 +37,7 @@ public class FindNumbers {
         for (int i = 0; i < digits.length; i++) {
             if (chars == digits[i]) {
                 isDigit = true;
+                break;
             }
         }
         return isDigit;
