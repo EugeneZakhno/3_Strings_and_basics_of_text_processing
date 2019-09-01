@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Task01" />
+        <module name="Task04" />
         <module name="Task03" />
         <module name="Task02" />
       </profile>
@@ -15,6 +16,7 @@
       <module name="Task01" target="1.11" />
       <module name="Task02" target="1.11" />
       <module name="Task03" target="1.11" />
+      <module name="Task04" target="7" />
       <module name="Task_01" target="1.11" />
     </bytecodeTargetLevel>
   </component>
