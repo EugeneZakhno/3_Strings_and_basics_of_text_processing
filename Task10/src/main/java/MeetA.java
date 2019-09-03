@@ -19,10 +19,10 @@ public class MeetA {
         }
     }
 
-    private static int counter(String line, char character) {
+    private static int counter(String string, char character) {
         int counter = 0;
-        for (int i = 0; i < line.length(); i++) {
-            if (line.charAt(i) == character) {
+        for (int i = 0; i < string.length(); i++) {
+            if (string.charAt(i) == character) {
                 counter++;
             }
         }
