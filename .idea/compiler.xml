@@ -30,7 +30,7 @@
       <module name="Task08" target="7" />
       <module name="Task09" target="7" />
       <module name="Task10" target="7" />
-      <module name="Task11" target="1.5" />
+      <module name="Task11" target="7" />
       <module name="Task_01" target="1.11" />
     </bytecodeTargetLevel>
   </component>
