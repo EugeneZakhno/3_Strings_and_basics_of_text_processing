@@ -29,7 +29,6 @@ class BigSmallLetters {
         }
         return counter;
     }
-
     private static int findBig(String strings) {
         StringBuilder stringBuilder = new StringBuilder(strings);
         int counter = 0;
