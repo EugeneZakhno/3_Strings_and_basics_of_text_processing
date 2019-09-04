@@ -15,6 +15,7 @@
         <module name="Task03" />
         <module name="Task02" />
         <module name="Task01" />
+        <module name="Task12" />
         <module name="Task11" />
         <module name="Task10" />
       </profile>
@@ -31,6 +32,7 @@
       <module name="Task09" target="7" />
       <module name="Task10" target="7" />
       <module name="Task11" target="7" />
+      <module name="Task12" target="7" />
       <module name="Task_01" target="1.11" />
     </bytecodeTargetLevel>
   </component>
